@@ -1,0 +1,6 @@
+# How to use this repo:
+1. Pull when told to. 
+1. *IF* getting a skeleton, copy it to a directory of your choice. Work on the *COPY*!!!!
+1. That's it.
+1. There is no more...
+1. Sorry...
