@@ -1,50 +1,28 @@
-package org.academiadecodigo.stringrays.web_server;
+package org.academiadecodigo.stringrays.concurrent_web_server;
 
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-
-public class Server {
-
-
-    private int portNumber;
+public class ClientHandler implements Runnable {
 
     private Socket clientSocket;
+
     private String resourcesRoot = "resources";
     private String notFound = "/404.html";
 
-    ServerSocket serverSocket = null;
 
-
-    public Server(int portNumber) {
-        this.portNumber = portNumber;
+    public ClientHandler(Socket clientSocket) {
+        this.clientSocket = clientSocket;
     }
 
-    public void start() {
 
-
-        try {
-            serverSocket = new ServerSocket(portNumber);
-
-            while (true) {
-                clientSocket = serverSocket.accept();
-                System.out.println("Server is listening on port... " + portNumber);
-
-                processClientRequest(clientSocket);
-
-            }
-
-        } catch (IOException exception) {
-            System.out.println("Server Connection error: " + exception.getMessage());
-
-        }
-
+    @Override
+    public void run() {
+        processClientRequest(clientSocket);
     }
-
 
     private void processClientRequest(Socket socket) {
-
 
         try {
 
@@ -102,33 +80,6 @@ public class Server {
         }
     }
 
-
-
-   /* public byte[] convertToBytes(File file) {
-        byte[] newFile = new byte[(int) file.length()];
-        FileInputStream inputStream = null;
-
-        try {
-            inputStream = new FileInputStream(file);
-            inputStream.read(newFile);
-
-        } catch (FileNotFoundException exception) {
-            exception.printStackTrace();
-
-        } catch (IOException exception) {
-            exception.getMessage();
-
-        } finally {
-            if (inputStream != null) {
-                close(inputStream);
-            }
-        }
-
-        return newFile;
-
-    }*/
-
-
     private void close(Closeable closeable) {
         try {
             if (closeable != null) {
@@ -142,6 +93,3 @@ public class Server {
     }
 
 }
-
-
-
