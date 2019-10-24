@@ -1,0 +1,100 @@
+
+
+hr {
+    border-top: 3px solid rgb(209, 20, 35);
+    margin: 20px;
+}
+
+.page-title{
+    text-align: center;
+    color: black;
+    background-color: rgb(255,165,0);
+    max-height: 100%;
+}
+
+.section {
+    text-align: center;
+
+}
+
+.section2 {
+   text-align: left;
+    background-color: beige;
+
+
+}
+
+.wrapper {
+    background-image: url("images/selva.jpg");
+
+}
+.background {
+    width: 100%;
+    height: 550px;
+}
+
+.card0 {
+
+    max-width: 750px;
+    max-height: 750px;
+    margin: 0 auto;
+    padding: 10px;
+    background-image: url("images/simba.jpg");
+    border-radius: 5px;
+
+}
+
+.card {
+    max-width: 750px;
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(226, 185, 205);
+    border-radius: 5px;
+    background-image: url("images/savana.jpg");
+}
+
+.card1 {
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: rgb(226, 185, 205);
+    border-radius: 5px;
+    background-image: url("images/zazu.jpg");
+
+}
+
+.mufasa {
+    margin: auto;
+    max-width: 270px;
+    max-height: 270px;
+    border: 2px solid salmon;
+    border-radius: 50%;
+    top: -90px;
+    text-align: center;
+}
+
+.social {
+    text-align: left;
+    cursor: pointer;
+    color: white;
+    background:gray;
+    border-radius: 2px;
+    padding: 7px;
+}
+
+.social:active {
+
+    background-color: beige;
+    color: cornflowerblue;
+    font-size: 150%;
+
+}
+.contacteme {
+    text-align: center;
+}
+
+.achievements {
+    max-width: 500px;
+    text-align: center;
+    margin: auto;
+}

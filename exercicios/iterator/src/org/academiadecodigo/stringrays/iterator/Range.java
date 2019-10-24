@@ -1,6 +1,6 @@
 package org.academiadecodigo.stringrays.iterator;
 
-public class Range implements Iterable {
+public class Range implements Iterable<Integer> {
 
     private int min;
     private int max;
@@ -22,10 +22,10 @@ public class Range implements Iterable {
 
     @Override
     public Iterat iterator() {
-        return new Iterat(min, max);
-
+        return new Iterat(this);
 
     }
+
 
 }
 
