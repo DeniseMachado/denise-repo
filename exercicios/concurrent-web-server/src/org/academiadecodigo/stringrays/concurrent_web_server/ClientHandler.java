@@ -1,7 +1,6 @@
 package org.academiadecodigo.stringrays.concurrent_web_server;
 
 import java.io.*;
-import java.net.ServerSocket;
 import java.net.Socket;
 
 public class ClientHandler implements Runnable {
