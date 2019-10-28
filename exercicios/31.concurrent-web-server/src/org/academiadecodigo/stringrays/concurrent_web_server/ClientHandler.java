@@ -46,7 +46,6 @@ public class ClientHandler implements Runnable {
                 return;
 
             }
-            //Problems here
             if (resource.equals("/")) {
                 resource += "index.html";
             }

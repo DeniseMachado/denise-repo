@@ -7,7 +7,7 @@ import java.net.InetAddress;
 public class HostName {
 
     private InetAddress ip;
-    //private String hostName;
+
 
 
     public void getByName(String hostName) {
