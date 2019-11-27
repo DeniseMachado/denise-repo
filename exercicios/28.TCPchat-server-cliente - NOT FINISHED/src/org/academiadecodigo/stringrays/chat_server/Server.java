@@ -36,6 +36,7 @@ public class Server {
 
             while (true) {
 
+
                // out.println(message);
                 out.println(in.readLine());
             }

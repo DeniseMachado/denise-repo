@@ -24,8 +24,13 @@ public class Producer implements Runnable {
     }
 
     private void produce() {
-        for (int i = 0; i < elementNum; i++) {
-            queue.offer(i);
+        try {
+            for (int i = 0; i < elementNum; i++) {
+                Thread.sleep(1000);
+                queue.offer(i);
+            }
+        } catch (InterruptedException ex) {
+            ex.getMessage();
         }
     }
 

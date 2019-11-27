@@ -2,119 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21bd4891-b553-4452-bbe4-772ca43d2649" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/car-crash-x-skeleton.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/lib/lanterna-2.1.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/lib/simplegraphics.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/CarCrashX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/CollisionDetector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/car/Car$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/car/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/car/CarFactory$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/car/CarFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/car/CarType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/car/Fiat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/car/Mustang.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/gfx/lanterna/LanternaColorMapper$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/gfx/lanterna/LanternaColorMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/gfx/lanterna/LanternaGrid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/gfx/lanterna/LanternaGridPosition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/gfx/simplegfx/SimpleGfxColorMapper$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/gfx/simplegfx/SimpleGfxColorMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/gfx/simplegfx/SimpleGfxGrid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/gfx/simplegfx/SimpleGfxGridPosition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/grid/Grid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/grid/GridColor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/grid/GridDirection$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/grid/GridDirection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/grid/GridFactory$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/grid/GridFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/grid/GridType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/grid/position/AbstractGridPosition$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/grid/position/AbstractGridPosition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/grid/position/GridPosition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/test/LanternaGridTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/test/SimpleGfxGridTest$TestResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/out/production/car-crash-x-skeleton/org/academiadecodigo/bootcamp/test/SimpleGfxGridTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/CarCrashX.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/CollisionDetector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/car/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/car/CarFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/car/CarType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/car/Fiat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/car/Mustang.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/gfx/lanterna/LanternaColorMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/gfx/lanterna/LanternaGrid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/gfx/lanterna/LanternaGridPosition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/gfx/simplegfx/SimpleGfxColorMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/gfx/simplegfx/SimpleGfxGrid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/gfx/simplegfx/SimpleGfxGridPosition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/grid/Grid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/grid/GridColor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/grid/GridDirection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/grid/GridFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/grid/GridType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/grid/position/AbstractGridPosition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/grid/position/GridPosition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/test/LanternaGridTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/src/org/academiadecodigo/bootcamp/test/SimpleGfxGridTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/exceptions.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/out/production/exceptions/org/academiadecodigo/stringrays/exceptions/File.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/out/production/exceptions/org/academiadecodigo/stringrays/exceptions/FileManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/out/production/exceptions/org/academiadecodigo/stringrays/exceptions/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/out/production/exceptions/org/academiadecodigo/stringrays/exceptions/exceptions/FileExceptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/out/production/exceptions/org/academiadecodigo/stringrays/exceptions/exceptions/FileNotFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/out/production/exceptions/org/academiadecodigo/stringrays/exceptions/exceptions/NotEnoughPermissionsException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/out/production/exceptions/org/academiadecodigo/stringrays/exceptions/exceptions/NotEnoughSpaceExceptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/src/org/academiadecodigo/stringrays/exceptions/File.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/src/org/academiadecodigo/stringrays/exceptions/FileManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/src/org/academiadecodigo/stringrays/exceptions/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/src/org/academiadecodigo/stringrays/exceptions/exceptions/FileExceptions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/src/org/academiadecodigo/stringrays/exceptions/exceptions/FileNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/src/org/academiadecodigo/stringrays/exceptions/exceptions/NotEnoughPermissionsException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptions/src/org/academiadecodigo/stringrays/exceptions/exceptions/NotEnoughSpaceExceptions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/stringrays/histogram_words/Histogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/stringrays/histogram_words/HistogramComposition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/stringrays/histogram_words/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/stringrays/histogram_words/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/iterator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/out/production/iterator/org/academiadecodigo/stringrays/iterator/Iterat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/out/production/iterator/org/academiadecodigo/stringrays/iterator/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/out/production/iterator/org/academiadecodigo/stringrays/iterator/Range.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/src/org/academiadecodigo/stringrays/iterator/Iterat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/src/org/academiadecodigo/stringrays/iterator/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/src/org/academiadecodigo/stringrays/iterator/Range.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../linked-list-skeleton/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../linked-list-skeleton/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../linked-list-skeleton/src/org/academiadecodigo/bootcamp/containers/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../linked-list-skeleton/src/org/academiadecodigo/bootcamp/containers/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../linked-list-skeleton/src/org/academiadecodigo/stringrays/containers/LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../linked-list-skeleton/src/org/academiadecodigo/stringrays/containers/LinkedListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../linked-list-skeleton/src/org/academiadecodigo/stringrays/containers/StringList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/org/academiadecodigo/stringrays/todo_list/Importance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/org/academiadecodigo/stringrays/todo_list/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/org/academiadecodigo/stringrays/todo_list/Todo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/org/academiadecodigo/stringrays/todo_list/TodoList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/todo-list.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/exercicios.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28.TCPchat-server-cliente - NOT FINISHED/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../28.TCPchat-server-cliente - NOT FINISHED/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31.concurrent-web-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../31.concurrent-web-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/src/org/academiadecodigo/bootcamp/concurrency/bqueue/BQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/src/org/academiadecodigo/bootcamp/concurrency/bqueue/BQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/src/org/academiadecodigo/stringrays/concurrency/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/src/org/academiadecodigo/stringrays/concurrency/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/src/org/academiadecodigo/stringrays/concurrency/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/src/org/academiadecodigo/stringrays/concurrency/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/src/org/academiadecodigo/stringrays/concurrency/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/src/org/academiadecodigo/stringrays/concurrency/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34.chat-server-multiclients/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34.chat-server-multiclients/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34.chat-server-multiclients/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34.chat-server-multiclients/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34.chat-server-multiclients/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34.chat-server-multiclients/34.chat-server-multiclients.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34.chat-server-multiclients/src/org/academiadecodigo/stringrays/chat_server_multiclients/ClientHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34.chat-server-multiclients/src/org/academiadecodigo/stringrays/chat_server_multiclients/TCPClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34.chat-server-multiclients/src/org/academiadecodigo/stringrays/chat_server_multiclients/TCPServer.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -155,21 +64,26 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1168384645">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/stringrays/histogram_words/HistogramComposition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+            <state relative-caret-position="362">
+              <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
               <folding>
-                <element signature="e#988#989#0" expanded="true" />
+                <element signature="e#980#981#0" expanded="true" />
                 <element signature="e#1023#1024#0" expanded="true" />
-                <element signature="e#1171#1172#0" expanded="true" />
-                <element signature="e#1221#1222#0" expanded="true" />
-                <element signature="e#1267#1268#0" expanded="true" />
-                <element signature="e#1308#1309#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -178,22 +92,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/stringrays/histogram_words/Histogram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="408">
               <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#545#546#0" expanded="true" />
-                <element signature="e#575#576#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/stringrays/histogram_words/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -237,21 +149,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="histogram-words" type="b2602c69:ProjectViewProjectNode" />
-              <item name="histogram-words" type="462c0819:PsiDirectoryNode" />
+              <item name="21.histogram-words" type="b2602c69:ProjectViewProjectNode" />
+              <item name="21.histogram-words" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="histogram-words" type="b2602c69:ProjectViewProjectNode" />
-              <item name="histogram-words" type="462c0819:PsiDirectoryNode" />
+              <item name="21.histogram-words" type="b2602c69:ProjectViewProjectNode" />
+              <item name="21.histogram-words" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="histogram-words" type="b2602c69:ProjectViewProjectNode" />
-              <item name="histogram-words" type="462c0819:PsiDirectoryNode" />
+              <item name="21.histogram-words" type="b2602c69:ProjectViewProjectNode" />
+              <item name="21.histogram-words" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="histogram_words" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -259,8 +173,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -268,6 +180,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572122510334" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -314,28 +227,24 @@
       <option name="presentableId" value="Default" />
       <updated>1572121824615</updated>
       <workItem from="1572121828468" duration="705000" />
+      <workItem from="1572372525794" duration="794000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="705000" />
+    <option name="totallyTimeSpent" value="1499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="875" y="23" width="1034" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25504032" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3299435" />
@@ -343,15 +252,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,37 +275,31 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/stringrays/histogram_words/HistogramComposition.java">
+    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/stringrays/histogram_words/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
-          <folding>
-            <element signature="e#988#989#0" expanded="true" />
-            <element signature="e#1023#1024#0" expanded="true" />
-            <element signature="e#1171#1172#0" expanded="true" />
-            <element signature="e#1221#1222#0" expanded="true" />
-            <element signature="e#1267#1268#0" expanded="true" />
-            <element signature="e#1308#1309#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/stringrays/histogram_words/Histogram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
+        <state relative-caret-position="408">
           <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/stringrays/histogram_words/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/stringrays/histogram_words/HistogramComposition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="362">
+          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+          <folding>
+            <element signature="e#980#981#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

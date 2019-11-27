@@ -23,7 +23,6 @@ public class BQueue<T> {
 
     public BQueue(int limit) {
         this.limit = limit;
-
         queue = new LinkedList<>();
 
 
@@ -46,7 +45,6 @@ public class BQueue<T> {
             } catch (InterruptedException e) {
                 System.out.println(e.getMessage());
             }
-
         }
         queue.add(data);
         System.out.println(Thread.currentThread().getName() + "Added");
@@ -62,7 +60,6 @@ public class BQueue<T> {
             } catch (InterruptedException e) {
                 System.out.println(e.getMessage());
             }
-
         }
         System.out.println(Thread.currentThread().getName() + "Removed");
         notifyAll();
@@ -75,7 +72,7 @@ public class BQueue<T> {
      * @return the number of elements
      */
     public int getSize() {
-        return size;
+        return queue.size();
 
     }
 

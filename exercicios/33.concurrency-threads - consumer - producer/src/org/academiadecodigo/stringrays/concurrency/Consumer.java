@@ -20,8 +20,13 @@ public class Consumer implements Runnable {
     }
 
     public void consume() {
-        for (int i = 0; i < elementNum; i++) {
-            queue.poll();
+        try {
+            for (int i = 0; i < elementNum; i++) {
+                Thread.sleep(2000);
+                queue.poll();
+            }
+        } catch (InterruptedException ex) {
+            ex.printStackTrace();
         }
     }
 

@@ -10,13 +10,13 @@ public class Main {
         BQueue<Integer> queue = new BQueue<>(10);
 
 
-        Producer p1 = new Producer(queue, 10);
+        Producer p1 = new Producer(queue, 20);
         Thread t1 = new Thread(p1);
-        t1.setName("Producer1: ");
+        t1.setName("Producer 1: ");
 
         Producer p2 = new Producer(queue, 10);
         Thread t2 = new Thread(p2);
-        t2.setName("Producer2: ");
+        t2.setName("Producer 2: ");
 
         Consumer c1 = new Consumer(queue, 10);
         Thread t3 = new Thread(c1);

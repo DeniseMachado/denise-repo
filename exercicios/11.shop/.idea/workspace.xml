@@ -2,122 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa2de930-8492-4ddb-b84b-b1000948207c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../histogram-words/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo-list/src/org/academiadecodigo/stringrays/todo_list/Importance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Closest-Neighbours/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Closest-Neighbours/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Closest-Neighbours/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Closest-Neighbours/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Closest-Neighbours/Closest-Neighbours.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Closest-Neighbours/out/production/Closest-Neighbours/org/academiadecodigo/stringrays/closest_neighbours/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Closest-Neighbours/src/org/academiadecodigo/stringrays/closest_neighbours/ClosestNeighbours.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontBack/FrontBack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontBack/FrontBack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MissingChar/MissingChar." beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MissingChar/MissingChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MissingChar/MissingChar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewClass/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewClass/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewClass/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewClass/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewClass/new-class.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewClass/src/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewClass/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NotString/NotString." beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NotString/NotString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NotString/NotString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../arabian-night/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../arabian-night/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../arabian-night/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/calculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/out/production/calculator/org/academiadecodigo/bootcamp/calculator/Brain$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/out/production/calculator/org/academiadecodigo/bootcamp/calculator/Brain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/out/production/calculator/org/academiadecodigo/bootcamp/calculator/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/out/production/calculator/org/academiadecodigo/bootcamp/calculator/Display.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/out/production/calculator/org/academiadecodigo/bootcamp/calculator/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/out/production/calculator/org/academiadecodigo/bootcamp/calculator/OperationType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/out/production/calculator/org/academiadecodigo/bootcamp/calculator/ScientificCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/src/org/academiadecodigo/bootcamp/calculator/Brain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/src/org/academiadecodigo/bootcamp/calculator/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/src/org/academiadecodigo/bootcamp/calculator/Display.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/src/org/academiadecodigo/bootcamp/calculator/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/src/org/academiadecodigo/bootcamp/calculator/OperationType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/src/org/academiadecodigo/bootcamp/calculator/ScientificCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../car-crash-x-skeleton/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../car-crash-x-skeleton/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../counting-sheeps/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../counting-sheeps/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../counting-sheeps/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../counting-sheeps/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../counting-sheeps/counting-sheeps.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../counting-sheeps/out/production/counting-sheeps/org/academiadecodigo/bootcamp/countingsheeps/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../counting-sheeps/out/production/counting-sheeps/org/academiadecodigo/bootcamp/countingsheeps/Sheeps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../counting-sheeps/src/org/academiadecodigo/bootcamp/countingsheeps/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../counting-sheeps/src/org/academiadecodigo/bootcamp/countingsheeps/Sheeps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitch/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitch/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitch/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitch/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitch/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitch/first-day-pitch.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitch/out/production/first-day-pitch/org/academiadecodigo/bootcamp/first_day_pitch/Cadet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitch/out/production/first-day-pitch/org/academiadecodigo/bootcamp/first_day_pitch/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitch/src/org/academiadecodigo/bootcamp/first_day_pitch/Cadet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitch/src/org/academiadecodigo/bootcamp/first_day_pitch/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitches/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitches/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitches/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitches/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitches/first-day-pitches.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitches/out/production/first-day-pitches/org/academiadecodigo/bootcamp/firstdaypitches/Cadet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitches/out/production/first-day-pitches/org/academiadecodigo/bootcamp/firstdaypitches/FirstDayPitches.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitches/src/org/academiadecodigo/bootcamp/firstdaypitches/Cadet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitches/src/org/academiadecodigo/bootcamp/firstdaypitches/FirstDayPitches.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game-choose-a-number/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game-choose-a-number/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game-choose-a-number/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game-choose-a-number/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game-choose-a-number/game-choose-a-number.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game-choose-a-number/out/production/game-choose-a-number/org/academiadecodigo/bootcamp/ChooseNumber/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game-choose-a-number/out/production/game-choose-a-number/org/academiadecodigo/bootcamp/ChooseNumber/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game-choose-a-number/out/production/game-choose-a-number/org/academiadecodigo/bootcamp/ChooseNumber/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game-choose-a-number/out/production/game-choose-a-number/org/academiadecodigo/bootcamp/ChooseNumber/RNG.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game-choose-a-number/src/org/academiadecodigo/bootcamp/ChooseNumber/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game-choose-a-number/src/org/academiadecodigo/bootcamp/ChooseNumber/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game-choose-a-number/src/org/academiadecodigo/bootcamp/ChooseNumber/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game-choose-a-number/src/org/academiadecodigo/bootcamp/ChooseNumber/RNG.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/out/production/iterator/org/academiadecodigo/stringrays/iterator/Iterat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/out/production/iterator/org/academiadecodigo/stringrays/iterator/Iterat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/out/production/iterator/org/academiadecodigo/stringrays/iterator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/out/production/iterator/org/academiadecodigo/stringrays/iterator/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/out/production/iterator/org/academiadecodigo/stringrays/iterator/Range.class" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/out/production/iterator/org/academiadecodigo/stringrays/iterator/Range.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/src/org/academiadecodigo/stringrays/iterator/Iterat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/src/org/academiadecodigo/stringrays/iterator/Iterat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/src/org/academiadecodigo/stringrays/iterator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/src/org/academiadecodigo/stringrays/iterator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/src/org/academiadecodigo/stringrays/iterator/Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/src/org/academiadecodigo/stringrays/iterator/Range.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-paper-scissor/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-paper-scissor/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-paper-scissor/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-paper-scissor/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-paper-scissor/out/production/rock-paper-scissor/org/academiadecodigo/bootcamp/rockscissorpaper/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-paper-scissor/out/production/rock-paper-scissor/org/academiadecodigo/bootcamp/rockscissorpaper/Hand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-paper-scissor/out/production/rock-paper-scissor/org/academiadecodigo/bootcamp/rockscissorpaper/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-paper-scissor/out/production/rock-paper-scissor/org/academiadecodigo/bootcamp/rockscissorpaper/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-paper-scissor/out/production/rock-paper-scissor/org/academiadecodigo/bootcamp/rockscissorpaper/RNG.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-paper-scissor/rock-paper-scissor.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-paper-scissor/src/org/academiadecodigo/bootcamp/rockscissorpaper/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-paper-scissor/src/org/academiadecodigo/bootcamp/rockscissorpaper/Hand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-paper-scissor/src/org/academiadecodigo/bootcamp/rockscissorpaper/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-paper-scissor/src/org/academiadecodigo/bootcamp/rockscissorpaper/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-paper-scissor/src/org/academiadecodigo/bootcamp/rockscissorpaper/RNG.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp/shop_day/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp/shop_day/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp/shop_day/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp/shop_day/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp/shop_day/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp/shop_day/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp/shop_day/Wallet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp/shop_day/Wallet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/exercicios.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21.histogram-words/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../21.histogram-words/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28.TCPchat-server-cliente - NOT FINISHED/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../28.TCPchat-server-cliente - NOT FINISHED/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31.concurrent-web-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../31.concurrent-web-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/src/org/academiadecodigo/bootcamp/concurrency/bqueue/BQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/src/org/academiadecodigo/bootcamp/concurrency/bqueue/BQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/src/org/academiadecodigo/stringrays/concurrency/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/src/org/academiadecodigo/stringrays/concurrency/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/src/org/academiadecodigo/stringrays/concurrency/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/src/org/academiadecodigo/stringrays/concurrency/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/src/org/academiadecodigo/stringrays/concurrency/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../33.concurrency-threads - consumer - producer/src/org/academiadecodigo/stringrays/concurrency/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34.chat-server-multiclients/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34.chat-server-multiclients/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34.chat-server-multiclients/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34.chat-server-multiclients/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34.chat-server-multiclients/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34.chat-server-multiclients/34.chat-server-multiclients.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34.chat-server-multiclients/src/org/academiadecodigo/stringrays/chat_server_multiclients/ClientHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34.chat-server-multiclients/src/org/academiadecodigo/stringrays/chat_server_multiclients/TCPClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34.chat-server-multiclients/src/org/academiadecodigo/stringrays/chat_server_multiclients/TCPServer.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -156,12 +63,21 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1024845725">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="shop" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp/shop_day/Bank.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -170,10 +86,10 @@
               <folding>
                 <element signature="e#167#168#0" expanded="true" />
                 <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
                 <element signature="e#609#610#0" expanded="true" />
                 <element signature="e#655#656#0" expanded="true" />
-                <element signature="e#707#708#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -188,38 +104,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp/shop_day/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
+            <state relative-caret-position="476">
               <caret line="34" column="59" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
               <folding>
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#588#589#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
                 <element signature="e#668#669#0" expanded="true" />
-                <element signature="e#757#758#0" expanded="true" />
+                <element signature="e#744#745#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp/shop_day/Wallet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
+            <state relative-caret-position="493">
               <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
-              <folding>
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#637#638#0" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -255,8 +157,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -286,6 +188,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571588392687" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -332,28 +235,24 @@
       <option name="presentableId" value="Default" />
       <updated>1571586912133</updated>
       <workItem from="1571586913398" duration="1492000" />
+      <workItem from="1572892559188" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1492000" />
+    <option name="totallyTimeSpent" value="1515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" sideWeight="0.5009901" side_tool="true" visible="true" weight="0.15069222" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990099" visible="true" weight="0.15069222" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990099" visible="true" weight="0.15228967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32970297" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5009901" side_tool="true" weight="0.15069222" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2891089" />
@@ -361,15 +260,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32970297" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,17 +283,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp/shop_day/Wallet.java">
+    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp/shop_day/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+        <state relative-caret-position="238">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp/shop_day/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" column="59" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
           <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -401,35 +308,18 @@
           <folding>
             <element signature="e#167#168#0" expanded="true" />
             <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
             <element signature="e#609#610#0" expanded="true" />
             <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp/shop_day/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp/shop_day/Wallet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp/shop_day/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="59" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
-          <folding>
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="493">
+          <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
         </state>
       </provider>
     </entry>
