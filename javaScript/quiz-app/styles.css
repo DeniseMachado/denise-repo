@@ -1,0 +1,81 @@
+*, * ::before, *::after {
+    box-sizing: border-box;
+    font-family: Arial;
+
+    font-size: 20px;
+}
+
+
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #000088;
+}
+
+body.correct {
+    background-color: #008000;
+}
+
+body.wrong {
+    background-color: #FF0000;
+}
+
+.container {
+    width: 500px;
+    max-width: 80%;
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 50px;
+    box-shadow: 0 0 10px 2px;
+}
+
+.btn-grid {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.btn {
+    background-color: cornflowerblue;
+    border: 1px solid hs1(100%, 30%);
+    border-radius: 5px;
+    padding: 5px, 10px;
+    color: #ffffff;
+    outline:  none;
+}
+
+.btn:hover {
+    border-color: black;
+}
+
+.btn.correct {
+    --hue: var(--hue-correct);
+    color: black;
+}
+
+.btn.wrong {
+    --hue: var(--hue-wrong);
+}
+
+.start-btn, .next-btn {
+    font-size: 20px;
+    width: 55px;
+}
+
+
+.controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*.hide {
+    display: none;
+}*/
+
