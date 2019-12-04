@@ -20,7 +20,7 @@ public class MissingChar {
 
         //Select all chars from the first after the chosen one
         // "cop"
-        String lastHalf = string.substring(n + 1);
+        String lastHalf = string.substring(n + 2);
 
         System.out.println(firstHalf + lastHalf);
     }
