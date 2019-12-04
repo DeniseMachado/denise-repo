@@ -9,7 +9,7 @@ exports.argsAsArray = function(...arguments) {
  * Return an array containing the function arguments,
  * but discarding the first two
  */
-exports.lastArgs = function(a,b, ...arguments) {
+exports.lastArgs = function(a, b, ...arguments) {
     return arguments;
 };
 
@@ -18,12 +18,11 @@ exports.lastArgs = function(a,b, ...arguments) {
  * on all arguments and returns an array with the results
  */
 exports.transformArgs = function(transform) {
-
     var arr = [];
 
     return function(...args) {
         args.forEach(element => {
-           arr.push(transform(element));
+            arr.push(transform(element));
         });
         return arr;
     };
@@ -33,15 +32,13 @@ exports.transformArgs = function(transform) {
  * Invoke the callback function passing each character
  * from the provided string as an argument
  */
-exports.spreadChars = (str, cb) => cb(str);
+exports.spreadChars = (str, cb) => cb(...str);
 
 /**
  * Concatenate the provided arrays using the spread operator
  */
 exports.mergeArrays = function(arr1, arr2) {
-    return arr3 = [...arr1, ...arr2];
-
-    
+    return [...arr1, ...arr2];
 };
 
 /**
@@ -49,19 +46,17 @@ exports.mergeArrays = function(arr1, arr2) {
  * using the spread operator
  */
 exports.spreadArrayStrings = function(arr) {
-   let newArr = [];
+    let newArr = [];
 
-   arr.forEach(element => {
-       newArr.push(...element);
-   });
-   return newArr;
-
+    arr.forEach(element => {
+        newArr.push(...element);
+    });
+    return newArr;
 };
 
 /**
  * Flatten an array of arrays using the spread operator
  */
 exports.flattenArray = function(arr) {
-
-    return [].concat.apply([],arr);
+    return [].concat.apply([], arr);
 };

@@ -7,7 +7,13 @@ exports.User = class {
         this.url = url;
     }
 
-    retrieve() {
-        return fetch(this.url);
+     async retrieve() {
+        const response = await fetch(this.url);
+
+        if(!response) {
+            throw new Error("Error");
+        }
+
+        return response;
     }
 };

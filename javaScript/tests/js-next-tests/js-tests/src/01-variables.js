@@ -11,7 +11,7 @@ exports.numberReturningFuncs = function(times) {
     return fs;
 };
 
-/**
+/*
  * Prevent variable reassignment
  */
 exports.reassignVariable = function() {

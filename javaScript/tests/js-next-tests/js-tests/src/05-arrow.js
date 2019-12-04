@@ -19,7 +19,7 @@ exports.getPerson = function(years, time) {
  */
 exports.getArgsAsArray = function() {
     return (...args) => {
-        return [].slice.call(args);
+        return args;
     };
 };
 
