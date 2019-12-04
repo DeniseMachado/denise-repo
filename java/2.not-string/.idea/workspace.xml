@@ -1,50 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f59fffc3-a614-4b48-9a09-451d1e3f400e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../histogram-words/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo-list/src/org/academiadecodigo/stringrays/todo_list/Importance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MissingChar/MissingChar." beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MissingChar/MissingChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MissingChar/MissingChar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewClass/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewClass/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewClass/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewClass/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewClass/new-class.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewClass/src/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewClass/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NotString/NotString." beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NotString/NotString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NotString/NotString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../arabian-night/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../arabian-night/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../arabian-night/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../car-crash-x-skeleton/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../car-crash-x-skeleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../car-crash-x-skeleton/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitch/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../first-day-pitch/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitch/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitch/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../first-day-pitch/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../first-day-pitch/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitch/src/org/academiadecodigo/bootcamp/first_day_pitch/Cadet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../first-day-pitch/src/org/academiadecodigo/bootcamp/first_day_pitch/Cadet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitch/src/org/academiadecodigo/bootcamp/first_day_pitch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../first-day-pitch/src/org/academiadecodigo/bootcamp/first_day_pitch/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitches/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitches/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitches/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitches/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitches/first-day-pitches.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitches/out/production/first-day-pitches/org/academiadecodigo/bootcamp/firstdaypitches/Cadet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitches/out/production/first-day-pitches/org/academiadecodigo/bootcamp/firstdaypitches/FirstDayPitches.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitches/src/org/academiadecodigo/bootcamp/firstdaypitches/Cadet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-day-pitches/src/org/academiadecodigo/bootcamp/firstdaypitches/FirstDayPitches.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/out/production/iterator/org/academiadecodigo/stringrays/iterator/Iterat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/out/production/iterator/org/academiadecodigo/stringrays/iterator/Iterat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/out/production/iterator/org/academiadecodigo/stringrays/iterator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/out/production/iterator/org/academiadecodigo/stringrays/iterator/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/out/production/iterator/org/academiadecodigo/stringrays/iterator/Range.class" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/out/production/iterator/org/academiadecodigo/stringrays/iterator/Range.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/src/org/academiadecodigo/stringrays/iterator/Iterat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/src/org/academiadecodigo/stringrays/iterator/Iterat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/src/org/academiadecodigo/stringrays/iterator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/src/org/academiadecodigo/stringrays/iterator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iterator/src/org/academiadecodigo/stringrays/iterator/Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/src/org/academiadecodigo/stringrays/iterator/Range.java" afterDir="false" />
+    <list default="true" id="700a5417-a5b0-40b6-9798-1fe5e2fba7b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,11 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="175488407">
+    <session id="2123058122">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
@@ -74,12 +33,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="320" />
+          <entry key="java" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="320" />
+          <entry key="JAVA" value="17" />
         </counts>
       </usages-collector>
     </session>
@@ -89,20 +48,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/stringrays/not_string/NotString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            <state relative-caret-position="306">
+              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -121,9 +73,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="987" />
     <option name="y" value="23" />
-    <option name="width" value="901" />
+    <option name="width" value="1920" />
     <option name="height" value="977" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -132,24 +83,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="not-string" type="b2602c69:ProjectViewProjectNode" />
-              <item name="not-string" type="462c0819:PsiDirectoryNode" />
+              <item name="2.not-string" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2.not-string" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="not-string" type="b2602c69:ProjectViewProjectNode" />
-              <item name="not-string" type="462c0819:PsiDirectoryNode" />
+              <item name="2.not-string" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2.not-string" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="not-string" type="b2602c69:ProjectViewProjectNode" />
-              <item name="not-string" type="462c0819:PsiDirectoryNode" />
+              <item name="2.not-string" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2.not-string" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="not_string" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -157,12 +106,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571580063932" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575454691886" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -181,7 +132,7 @@
   <component name="RunManager">
     <configuration name="NotString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.academiadecodigo.stringrays.not_string.NotString" />
-      <module name="not-string" />
+      <module name="2.not-string" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.academiadecodigo.stringrays.not_string.*" />
@@ -203,20 +154,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f59fffc3-a614-4b48-9a09-451d1e3f400e" name="Default Changelist" comment="" />
-      <created>1571578780589</created>
+      <changelist id="700a5417-a5b0-40b6-9798-1fe5e2fba7b9" name="Default Changelist" comment="" />
+      <created>1575454453864</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571578780589</updated>
-      <workItem from="1571578783982" duration="926000" />
+      <updated>1575454453864</updated>
+      <workItem from="1575454457677" duration="245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="926000" />
+    <option name="totallyTimeSpent" value="245000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="987" y="23" width="901" height="977" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -224,7 +175,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2491269" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -258,8 +209,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/stringrays/not_string/NotString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        <state relative-caret-position="306">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
         </state>
       </provider>
     </entry>
