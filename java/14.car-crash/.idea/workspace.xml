@@ -1,182 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad6cda14-d4df-4062-b9d1-6cdc3efbadda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../chat-server-client-improvement/src/org/academiadecodigo/stringrays/chat_improvement/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat-server-client-improvement/src/org/academiadecodigo/stringrays/chat_improvement/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lanterna_2_1_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lanterna_2_1_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lanterna_2_1_91.xml" beforeDir="false" />
+    <list default="true" id="f14d19c2-da4e-4ea4-9286-f2354e802bc0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../1.string-exercise-MissingChar/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.string-exercise-MissingChar/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.string-exercise-MissingChar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.string-exercise-MissingChar/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.string-exercise-MissingChar/src/org/academiadecodigo/stringrays/missing_char/MissingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1.string-exercise-MissingChar/src/org/academiadecodigo/stringrays/missing_char/MissingChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/.idea/libraries/lanterna_2_1_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/car-crash-skeleton.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/lib/lanterna-2.1.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/out/production/car-crash-skeleton/org/academiadecodigo/carcrash/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/out/production/car-crash-skeleton/org/academiadecodigo/carcrash/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/out/production/car-crash-skeleton/org/academiadecodigo/carcrash/RGN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/out/production/car-crash-skeleton/org/academiadecodigo/carcrash/cars/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/out/production/car-crash-skeleton/org/academiadecodigo/carcrash/cars/CarFactory$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/out/production/car-crash-skeleton/org/academiadecodigo/carcrash/cars/CarFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/out/production/car-crash-skeleton/org/academiadecodigo/carcrash/cars/CarType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/out/production/car-crash-skeleton/org/academiadecodigo/carcrash/cars/Fiat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/out/production/car-crash-skeleton/org/academiadecodigo/carcrash/cars/Mustang.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/out/production/car-crash-skeleton/org/academiadecodigo/carcrash/field/Field.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/out/production/car-crash-skeleton/org/academiadecodigo/carcrash/field/Position.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/src/org/academiadecodigo/carcrash/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/src/org/academiadecodigo/carcrash/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/src/org/academiadecodigo/carcrash/RGN.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/src/org/academiadecodigo/carcrash/cars/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/src/org/academiadecodigo/carcrash/cars/CarFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/src/org/academiadecodigo/carcrash/cars/CarType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/src/org/academiadecodigo/carcrash/cars/Fiat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/src/org/academiadecodigo/carcrash/cars/Mustang.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/src/org/academiadecodigo/carcrash/field/Field.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash-skeleton/src/org/academiadecodigo/carcrash/field/Position.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash1/.idea/car-crash1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash1/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash1/car-crash1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash1/lib/lanterna-2.1.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash1/src/org/academiadecodigo/carcrash/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash1/src/org/academiadecodigo/carcrash/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash1/src/org/academiadecodigo/carcrash/cars/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash1/src/org/academiadecodigo/carcrash/cars/CarFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash1/src/org/academiadecodigo/carcrash/field/Field.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-crash1/src/org/academiadecodigo/carcrash/field/Position.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chat-server-cliente/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-server-cliente/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concurrent-web-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../concurrent-web-server/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concurrent-web-server/src/org/academiadecodigo/stringrays/concurrent_web_server/ClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../concurrent-web-server/src/org/academiadecodigo/stringrays/concurrent_web_server/ClientHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concurrent-web-server/src/org/academiadecodigo/stringrays/concurrent_web_server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../concurrent-web-server/src/org/academiadecodigo/stringrays/concurrent_web_server/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-server/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-2128120647">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/carcrash/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="772" />
-    <option name="y" value="23" />
-    <option name="width" value="855" />
-    <option name="height" value="977" />
-  </component>
+  <component name="ProjectId" id="1VB4ZzOBDWWizaFin08aebiM6Eu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="car-crash" type="b2602c69:ProjectViewProjectNode" />
-              <item name="car-crash" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="car-crash" type="b2602c69:ProjectViewProjectNode" />
-              <item name="car-crash" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="car-crash" type="b2602c69:ProjectViewProjectNode" />
-              <item name="car-crash" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="car-crash" type="b2602c69:ProjectViewProjectNode" />
-              <item name="car-crash" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="carcrash" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572096660341" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.academiadecodigo.carcrash.Main" />
-      <module name="car-crash" />
+      <module name="14.car-crash" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.academiadecodigo.carcrash.*" />
@@ -193,86 +55,60 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ad6cda14-d4df-4062-b9d1-6cdc3efbadda" name="Default Changelist" comment="" />
-      <created>1572096626360</created>
+      <changelist id="f14d19c2-da4e-4ea4-9286-f2354e802bc0" name="Default Changelist" comment="" />
+      <created>1576713213398</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572096626360</updated>
-      <workItem from="1572096629602" duration="41000" />
+      <updated>1576713213398</updated>
+      <workItem from="1576713222713" duration="132000" />
+      <workItem from="1576777550219" duration="622000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="772" y="23" width="855" height="977" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496925" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299435" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/carcrash/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="461" y="108" width="424" height="514" key="FileChooserDialogImpl" timestamp="1576778170862">
+      <screen x="0" y="28" width="1366" height="678" />
+    </state>
+    <state x="461" y="108" width="424" height="514" key="FileChooserDialogImpl/0.28.1366.678@0.28.1366.678" timestamp="1576778170862" />
+    <state width="1296" height="140" key="GridCell.Tab.0.bottom" timestamp="1576713357926">
+      <screen x="0" y="28" width="1366" height="678" />
+    </state>
+    <state width="1296" height="140" key="GridCell.Tab.0.bottom/0.28.1366.678@0.28.1366.678" timestamp="1576713357926" />
+    <state width="1296" height="140" key="GridCell.Tab.0.center" timestamp="1576713357924">
+      <screen x="0" y="28" width="1366" height="678" />
+    </state>
+    <state width="1296" height="140" key="GridCell.Tab.0.center/0.28.1366.678@0.28.1366.678" timestamp="1576713357924" />
+    <state width="1296" height="140" key="GridCell.Tab.0.left" timestamp="1576713357923">
+      <screen x="0" y="28" width="1366" height="678" />
+    </state>
+    <state width="1296" height="140" key="GridCell.Tab.0.left/0.28.1366.678@0.28.1366.678" timestamp="1576713357923" />
+    <state width="1296" height="140" key="GridCell.Tab.0.right" timestamp="1576713357925">
+      <screen x="0" y="28" width="1366" height="678" />
+    </state>
+    <state width="1296" height="140" key="GridCell.Tab.0.right/0.28.1366.678@0.28.1366.678" timestamp="1576713357925" />
+    <state x="0" y="28" width="1356" height="676" key="new project wizard" timestamp="1576778174363">
+      <screen x="0" y="28" width="1366" height="678" />
+    </state>
+    <state x="0" y="28" width="1356" height="676" key="new project wizard/0.28.1366.678@0.28.1366.678" timestamp="1576778174363" />
   </component>
 </project>

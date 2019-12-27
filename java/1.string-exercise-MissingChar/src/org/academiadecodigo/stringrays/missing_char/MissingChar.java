@@ -3,7 +3,7 @@ package org.academiadecodigo.stringrays.missing_char;
 public class MissingChar {
     public static void main(String[] args) {
 
-        missingChar("Robocop", 3);
+        missingChar("Robocop", 5);
 
 
 
